@@ -1,0 +1,2 @@
+# ROSALIND_sol
+ROSALIND 해답 코드 (id : s201800586)
